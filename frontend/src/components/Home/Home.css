@@ -1,0 +1,10 @@
+.Main-Comp{
+    background-color: aliceblue;
+    padding:240px;
+    padding-left: 420px;
+}
+.ToDo{
+    font-weight: 400;
+    font-size: 80px;
+    /* padding-top: 200px; */
+}

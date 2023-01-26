@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+.container mt-4 {
+  background-color: aliceblue;
+}
+
+.jumbotron {
+  padding-left: 480px;
+  padding-top: 200px;
+  background-color: aliceblue;
+}
+
+.form-control {
+  font-size: medium;
+  padding-left: 10px;
+}
+
+.form-data {
+  font-size: medium;
+}
+
+.H{
+  padding-left: 80px;
+  font-size: medium;
+}
+.Last{
+  background-color: aliceblue;
+  padding: 100px;
+}
+button.btn.btn-primary {
+  padding-left: 5px;
+  width: 211px;
+  height: 26px;
+  background-color: #8b9deb;
+}

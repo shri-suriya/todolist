@@ -1,0 +1,15 @@
+.Details {
+    margin-left: 10px;
+}
+
+.Data {
+    color:black;
+    font-size: 18px;
+}
+.btn-data{
+    width: 58px;
+    height: 28px;
+    background-color:#8b9deb ;
+    border: #8b9deb;
+    color: white;
+}
